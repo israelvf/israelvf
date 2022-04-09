@@ -65,7 +65,9 @@
 
 <h3 align="center">Most used languages on personal projects:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelvf&layout=compact&langs_count=8&theme=gruvbox"/>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelvf&layout=compact&langs_count=8&theme=gruvbox"/>
+  </a>
 </div>
 
 <h1 />
